@@ -1,4 +1,5 @@
 # Cấu trúc thư mục hiện tại
+```text
 homestay-goc-nho/
 ├─ CONVENTIONS.md            # file này
 ├─ README.md                 # cách cài đặt và chạy
@@ -41,3 +42,4 @@ homestay-goc-nho/
       ├─ constants/          # status.js, errorMessages.js, menu.js
       ├─ utils/              # formatMoney.js, formatDate.js
       └─ styles/             # tokens.css (màu, font), global.css
+```
